@@ -1,0 +1,15 @@
+\BOOKMARK [1][-]{section.1}{Introduction and Overview}{}% 1
+\BOOKMARK [1][-]{section.2}{Theoretical Background}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Supervised Learning}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Artificial Neural Network}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Convolutional Neural Network}{section.2}% 5
+\BOOKMARK [1][-]{section.3}{Algorithm Implementation and Development}{}% 6
+\BOOKMARK [2][-]{subsection.3.1}{Fully Connected Neural Network Implementation}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.2}{Convoluntional Neural Network Implementation}{section.3}% 8
+\BOOKMARK [1][-]{section.4}{Computational Results}{}% 9
+\BOOKMARK [2][-]{subsection.4.1}{Fully Connected Neural Network}{section.4}% 10
+\BOOKMARK [2][-]{subsection.4.2}{Convolutional Neural Network}{section.4}% 11
+\BOOKMARK [1][-]{section.5}{Summary and Conclusions}{}% 12
+\BOOKMARK [1][-]{section.6}{Appendix A}{}% 13
+\BOOKMARK [1][-]{section.7}{Appendix B: Matlab Source Code}{}% 14
+\BOOKMARK [1][-]{section.8}{python codes}{}% 15
