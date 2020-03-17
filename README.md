@@ -1,8 +1,8 @@
 # AMATH 482 Computational Methods for Data Analysis
 Homeworks I have done for this class, including codes(MATLAB/ Python) and reports
 
-HW1: Analyze Singular Value Decomposition on Yale's Eigenfaces dataset
-HW2: Principle Component Analysis on multiple cameras capturing the same object's oscillatory dynamics from different angles, including an algorithm to extract the location of the paint can.
-HW3: Machine Learning/ Classification of Music Genres
-HW4: Dynamic Mode Decomposition to separate foreground and background in a video
-HW5: Neural Network
+HW1: An ultrasound problem that using Fourier Transformation and Guassian filter to reduce noise and construct trajactory.
+HW2: analyze a portion of Handel's Messiah with time-frequency analysis.
+HW3: On Canvas are movies created from three different cameras. The experiments are an attempt to illustrate various aspects of the PCA and its practical usefulness and the effects of noise on the PCA algorithms.
+HW4: use PCA to analyze songs and build a music classifier.
+HW5: Build a Neural Network and CNN to classify images.
